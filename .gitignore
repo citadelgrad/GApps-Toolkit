@@ -1,0 +1,12 @@
+*.pyc
+lib
+include
+bin
+apps-deployment-perl
+google_sync.db
+main_gapps.py
+python-notes
+share
+GoogleApps.kpf
+copycode.py
+.Python
